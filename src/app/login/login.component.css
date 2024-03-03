@@ -1,0 +1,28 @@
+
+.ng-scope {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 6.4%;
+
+}
+
+.quadrado {
+    color: white;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    background-color:#17213A !important;
+    background-image: none;
+    border: thin solid;
+    border-radius: 15px;
+}
+
+
+
+.input{
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    border-radius: 5px;
+}

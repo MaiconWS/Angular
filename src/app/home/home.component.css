@@ -1,0 +1,72 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#orange_color {
+    color: rgb(255, 118, 0);
+}
+
+.img1 {
+    margin-top: 0%;
+    width: 100%;
+}
+
+.img2 {
+    margin-top: 0%;
+    height: 500px;
+}
+
+.img3 {
+    margin-top: 0%;
+    height: 600px;
+}
+
+.bloco2 {
+    margin-top: 5%;
+    margin-left: 10%;
+
+}
+
+.bloco3 {
+    background: rgb(18, 56, 114);
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+
+}
+
+.text-center {
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.cursos {
+    height: 1%;
+    margin: 1%;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 25px;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    background: linear-gradient(90deg, rgba(232, 96, 34, 1) 14%, rgba(237, 113, 42, 1) 30%, rgba(255, 146, 40, 1) 53%, rgba(255, 146, 40, 1) 61%,  rgb(255, 159, 64) 90%, rgb(247, 179, 112) 100%);
+}
+
+.a-curso {
+    height: 1%;
+    width: 35%;
+    margin: 1%;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 25px;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    align-items: center;
+    background: white;
+    color: #E86022 !important;
+}

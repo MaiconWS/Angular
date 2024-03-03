@@ -1,0 +1,24 @@
+.bloco1 {
+    height: 720px;
+    background: rgb(255, 118, 0);
+}
+
+/* .row{
+    margin-top: 5%;
+} */
+
+.bloco2 {
+    height: 720px;
+    margin: 30px;
+    margin-left: auto;
+}
+
+.bloco3 {
+    height: 720px;
+    background: #0097E0;
+    color: #fff;
+}
+
+.img {
+    width: px;
+}

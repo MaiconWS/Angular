@@ -1,0 +1,15 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#orange_color {
+    color: rgb(255, 118, 0);
+}
+
+.footer{
+    margin: 0%;
+    background: #333333;
+    color: white;
+    text-align: center;
+}
